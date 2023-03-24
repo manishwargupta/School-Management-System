@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+import java.util.Scanner; //importing scanner class from util package
 
 public class SchoolManagementSystem {
 
